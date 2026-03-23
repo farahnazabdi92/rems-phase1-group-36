@@ -14,8 +14,10 @@
 ## Decisions
 - Use GitHub for collaboration
 
+
 ## Action Items
 | Task | Assigned To | Deadline |
+|------|------------|----------|
 | Create repo | Farahnaz | 23/03/2026  |
 
 ## Notes
